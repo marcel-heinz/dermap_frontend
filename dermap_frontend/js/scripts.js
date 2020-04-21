@@ -403,7 +403,7 @@ jQuery(function ($) {
 
   //countdown one
 
-  $('#clock').countdown('2020/06/01', function (event) {
+  $('#clock').countdown('2022/01/30', function (event) {
     $(this).html(event.strftime('' +
       '<div class="row">' +
       '<div class="col">' +
